@@ -19,7 +19,7 @@ Proje süreci, istatistiksel varsayımların kontrolünden modelin dışa aktar�
 * **Model Saklama:** Pickle
 
 ## 👥 Katkıda Bulunanlar (Grup Çalışması)
-Ümmü SAVRAN 
-Ezgi ALTINTOP  
-Hatice EFLATUN 
-Yağmur IŞIK
+* Ümmü SAVRAN 
+* Ezgi ALTINTOP  
+* Hatice EFLATUN 
+* Yağmur IŞIK
